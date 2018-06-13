@@ -8,7 +8,7 @@
 
 进入login-client文件夹，运行：
 
-npm install
+npm install<br/>
 npm run dev
 
 前端部分将会运行在localhost:8080上；
@@ -17,7 +17,7 @@ npm run dev
 
 进入login-server文件夹，运行：
 
-npm install
+npm install<br/>
 npm start
 
 后台的部分将会运行在localhost:3000上；
